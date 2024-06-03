@@ -1,5 +1,5 @@
 # Compound-temps-covid-mortality-paper
-Code associated with Lo et al., 2024, Compound mortality impacts from extreme temperatures and the COVID-19 pandemic. Nature Communications.
+Code associated with Lo et al., 2024, Compound mortality impacts from extreme temperatures and the COVID-19 pandemic. Nature Communications. https://www.nature.com/articles/s41467-024-48207-2. 
 
 data/ contains COVID-19 mortality and vaccination rate that were open source (links in manuscript) but are no longer available online. Other open souce data that are still available online are not included here, but their links are listed in the manuscript.
 
